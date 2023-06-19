@@ -79,5 +79,9 @@ public class MainController {
 		
 		return "order";
 	}
+	public String sample()
+	{
+		System.out.println("This line is written directly through GitHub");
+	}
 	
 }
